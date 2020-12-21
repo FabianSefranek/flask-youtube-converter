@@ -1,6 +1,5 @@
 from flask import Flask, send_file, request, render_template, url_for
 from functions import download_audio, download_video
-import threading
 app = Flask(__name__)
 
 @app.route("/")

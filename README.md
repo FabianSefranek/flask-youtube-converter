@@ -2,7 +2,7 @@
 A full stack flask/python youtube video/audio converter
 ## ⏰ Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. The cronjob.py file lets you delete downloaded media that are older than 5 mins (changeable).
 
 ###  Prerequisites / Dependencies
 

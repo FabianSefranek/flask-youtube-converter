@@ -49,7 +49,7 @@ pip install pytube
 ```
 
 ## 🦺 Frontend built with
-* [Bootstrap](getbootstrap.com/)
+* [Bootstrap](https://getbootstrap.com/)
 * HTML5
 * CSS3
 
